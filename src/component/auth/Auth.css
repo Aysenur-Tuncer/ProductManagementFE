@@ -1,0 +1,24 @@
+.form-container {
+    width: 600px;
+    height: 300px; 
+    padding: 20px;  
+    position: absolute; 
+    top: 45%; 
+    left: 50%; 
+    margin-left: -130px; 
+    margin-top: -150px;
+
+}
+
+.buton{
+  margin:15px;
+}
+.label{
+   
+    margin-bottom: 30px;
+   
+}
+
+.error{
+    color: red;
+}

@@ -1,0 +1,7 @@
+.filter-area{
+    background-color: white;
+    float: left;
+    padding: 1px 5px;
+    border-radius: 2px;
+    border: #ddd 2px solid;
+}
